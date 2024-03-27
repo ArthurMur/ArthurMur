@@ -146,7 +146,7 @@ Laravel (PHP) и React (JS). Остановился на React - его комп
       <a href="#debabin-stack">
         <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
       </a>
-      <br>stylelint (изучаю)
+      <br>stylelint
     </td>
   </tr> 
 </table>
